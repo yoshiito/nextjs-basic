@@ -108,6 +108,10 @@ export default function Home() {
           </p>
         </a>
       </div>
+
+      <div>
+        <p className="text-xl font-bold">Hello World</p>
+      </div>
     </main>
   );
 }
